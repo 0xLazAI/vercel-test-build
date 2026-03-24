@@ -10,3 +10,5 @@ Another small README update for identity check.
 Committed with the repository-local git identity.
 
 Identity test with a random repository-local email.
+
+Identity test with empty repository-local email.
