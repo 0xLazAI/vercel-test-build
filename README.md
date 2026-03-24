@@ -2,3 +2,5 @@
 
 Temporary test repository for Vercel project creation under 0xLazAI.
 xxx
+
+This repository is connected to Vercel for build verification.
