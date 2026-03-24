@@ -6,3 +6,5 @@ xxx
 This repository is connected to Vercel for build verification.
 
 Another small README update for identity check.
+
+Committed with the repository-local git identity.
